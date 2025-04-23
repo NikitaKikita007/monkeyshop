@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+.bashka{
+    width: 1650px;
+    height: 77px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.kakashka{
+
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 400;
+    align-items: center;
+}
+.cakashka{
+    display: flex;
+    gap: 20px;
+}
