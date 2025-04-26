@@ -30,3 +30,59 @@ font-size: 19px;
 margin-left: 50px;
 
 }
+
+
+
+
+.verh{
+
+    font-size: 40px;
+}
+.pravo{
+    font-size: 20px;
+    margin-top: 17px;
+}
+.hs{
+    display: flex;
+    justify-content: space-around;
+    gap: 350px;
+}
+.korbka1{
+    background-color: #F2F2F2;
+    width: 240px;
+    height: 386px;
+    margin-left: 70px;
+    border-radius: 5px;
+    
+}
+.glavniy{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 35px;
+}
+.korbka2{
+    background-color: #F2F2F2;
+    width: 240px;
+    height: 386px;
+
+    border-radius: 5px;}
+    .korbka3{
+        background-color: #F2F2F2;
+        width: 240px;
+        height: 386px;
+     
+        border-radius: 5px;}
+
+        .korbka4{
+            background-color: #F2F2F2;
+            width: 240px;
+            height: 386px;
+         
+            border-radius: 5px;}
+            .korbka5{
+                background-color: #F2F2F2;
+                width: 240px;
+                height: 386px;
+            
+                border-radius: 5px;}
