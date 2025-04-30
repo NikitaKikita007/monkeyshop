@@ -34,6 +34,8 @@
     width: 362px;
     height: 40px;
     font-size: 34px;
+    margin: auto 117px;
+    
 }
 
 .AAA {
@@ -50,9 +52,7 @@
     color: black;
     font-size: 35px;
 }
-.gl{
-    /* display: flex; */
-}
+
 .c{
     color: #717171;
     font-size: 10px;
@@ -79,7 +79,7 @@ font-size: 20px;
     font-size: 30px;
 }
 
-.y{
+.yaaQQ{
     font-size: 24px;
     height: 71px;
     width: 319px;
@@ -141,6 +141,11 @@ body{
 .cakashka{
     display: flex;
     gap: 20px;
+}
+.KRUT{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
@@ -217,8 +222,8 @@ body{
 
 .fon{
     background-color: rgb(213, 211, 211);
-    width: 200px;
-    height: 300px;
+    width: 240px;
+    height: 375px;
     padding-top: 10px;
     border-radius: 5px;
 
@@ -231,14 +236,15 @@ body{
 }
 
 .image1{
-    width: 200px;
+    width: 240px;
     margin-right: 200px;
 }
 
 .text{
-    font-size: 40%;
+    font-size: 50%;
     margin-left: 5px;
     font-family: "mazzard";
+    padding-top: 20%;
 }
 
 .text1{
@@ -279,7 +285,6 @@ height: 21px;
 margin-top: 490px;
 font-size: 19px;
 margin-left: 50px;
-
 
 }
 
@@ -338,6 +343,20 @@ margin-left: 50px;
                 height: 386px;
             
                 border-radius: 5px;}
+                .hs2{
+                    display: flex;
+                    justify-content: space-around;
+                    gap: 550px;}
+
+                    .hs3{
+                        display: flex;
+                        justify-content: space-around;
+                        gap: 370px;}
+            
+
+
+                
+
 
 
 
