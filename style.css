@@ -213,7 +213,7 @@ body{
 @font-face {
     font-family: "mazzard";
     src: 
-      url("MazzardH-Black.ttf") }
+      url("MazzardM-Light.otf") }
 
 .fon{
     background-color: rgb(213, 211, 211);
@@ -244,6 +244,10 @@ body{
 .text1{
     color:rgb(118, 118, 118);
     font-size: xx-small;
+}
+
+.prise{
+    font-size: small    ;
 }
 .tlv {
     width: 1289px;
