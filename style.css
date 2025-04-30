@@ -224,8 +224,8 @@ body{
 
 .fon{
     background-color: rgb(213, 211, 211);
-    width: 200px;
-    height: 300px;
+    width: 240px;
+    height: 375px;
     padding-top: 10px;
     border-radius: 5px;
 
@@ -238,14 +238,15 @@ body{
 }
 
 .image1{
-    width: 200px;
+    width: 240px;
     margin-right: 200px;
 }
 
 .text{
-    font-size: 40%;
+    font-size: 50%;
     margin-left: 5px;
     font-family: "mazzard";
+    padding-top: 20%;
 }
 
 .text1{
