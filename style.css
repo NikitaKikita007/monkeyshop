@@ -168,7 +168,14 @@ margin-left: 20pxpx;
 
 
 
+.prise{
+    font-size: 50%;
+}
 
+.image113{
+    width: 240px;
+    margin-top: 50px;
+}
 
 
 
@@ -319,11 +326,11 @@ font-size: 10px;
 
 .text1{
     color:rgb(118, 118, 118);
-    font-size: xx-small;
+    font-size: x-small;
 }
 
 .prise{
-    font-size: small    ;
+    font-size: large;
 }
 .tlv {
     width: 1289px;
@@ -358,16 +365,21 @@ margin-left: 50px;
 
 }
 
+.fireimage{
+    width: 40px;
+    height: 40px;
+}
 
 
 
 .verh{
-
+    font-family: "mazzard";
     font-size: 40px;
 }
 .pravo{
     font-size: 20px;
     margin-top: 17px;
+    font-family: "mazzard";
 }
 .hs{
     display: flex;
@@ -423,12 +435,3 @@ margin-left: 50px;
                         justify-content: space-around;
                         gap: 370px;}
             
-
-
-                
-
-
-
-
-
-
