@@ -145,9 +145,66 @@ gap: 5px;
     align-items: center;
 }
 
+.prise{
+    font-size: 50%;
+}
+
+.image113{
+    width: 240px;
+    margin-top: 50px;
+}
 
 
 
+
+
+
+.Canya{
+    background-color: #F2F2F2;
+    width: 764px;
+    height: 386px;
+    display: flex;
+    justify-content: center;
+
+}
+.chutnegl{
+    
+}
+.jqtyrf{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+}
+.Xbox{
+    width: 484px;
+    height: 261px;
+}
+.paakaa{
+    width: 9.2px;
+    height: 8.75px;
+}
+.papapapa{
+    background-color: #6e25ee;
+    width: 132px;
+    height: 33px;
+
+}
+.popka{
+    font-size: 30px;
+    align-items: center;
+    
+}
+.mcdakk{
+    color: #717171;
+    font-size: 12px;
+}
+.xboxxxx{
+    font-size: 35px;
+}
+.jwtnoxka{
+
+font-size: 10px;
+}
 
 
 
@@ -246,11 +303,11 @@ gap: 5px;
 
 .text1{
     color:rgb(118, 118, 118);
-    font-size: xx-small;
+    font-size: x-small;
 }
 
 .prise{
-    font-size: small    ;
+    font-size: large;
 }
 .tlv {
     width: 1289px;
@@ -285,16 +342,21 @@ margin-left: 50px;
 
 }
 
+.fireimage{
+    width: 40px;
+    height: 40px;
+}
 
 
 
 .verh{
-
+    font-family: "mazzard";
     font-size: 40px;
 }
 .pravo{
     font-size: 20px;
     margin-top: 17px;
+    font-family: "mazzard";
 }
 .hs{
     display: flex;
@@ -350,12 +412,3 @@ margin-left: 50px;
                         justify-content: space-around;
                         gap: 370px;}
             
-
-
-                
-
-
-
-
-
-
