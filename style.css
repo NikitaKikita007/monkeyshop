@@ -111,41 +111,38 @@ font-size: 20px;
     justify-content: space-evenly;
     gap: 120px;
 }
-
-
-body{
-    margin: 0px;
-}
-.bashka{
-    width: 1650px;
-    height: 77px;
-    background-color: rgb(255, 255, 255);
-    padding: 10px;
+.qwerty{
     display: flex;
     justify-content: space-around;
-    align-items: center;
-   
 }
-.kakashka{
+.quasdf{
+    width: 10px;
+    height: 10px;
 
-    text-align: center;
-    background-color: rgb(255, 255, 255);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    font-size: 18px;
-    font-weight: 400;
-    align-items: center;
 }
-.cakashka{
-    display: flex;
-    gap: 20px;
+.oboi{
+background-color: blue;
+width: 329px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 5px;
+
 }
+
 .KRUT{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.nikita1000procentovmakaka{
+    width: 329px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
