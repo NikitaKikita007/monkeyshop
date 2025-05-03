@@ -52,9 +52,7 @@
     color: black;
     font-size: 35px;
 }
-.gl{
-    /* display: flex; */
-}
+
 .c{
     color: #717171;
     font-size: 10px;
@@ -338,7 +336,6 @@ margin-top: 490px;
 font-size: 19px;
 margin-left: 50px;
 
-
 }
 
 
@@ -396,6 +393,20 @@ margin-left: 50px;
                 height: 386px;
             
                 border-radius: 5px;}
+                .hs2{
+                    display: flex;
+                    justify-content: space-around;
+                    gap: 550px;}
+
+                    .hs3{
+                        display: flex;
+                        justify-content: space-around;
+                        gap: 370px;}
+            
+
+
+                
+
 
 
 
