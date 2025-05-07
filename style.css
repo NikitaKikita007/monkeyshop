@@ -121,12 +121,13 @@ font-size: 20px;
 
 }
 .oboi{
-background-color: blue;
+background-color: rgb(255, 255, 255);
 width: 329px;
 height: 50px;
 display: flex;
 justify-content: center;
 align-items: center;
+
 gap: 5px;
 
 }
@@ -225,9 +226,51 @@ margin-left: 20pxpx;
 
 font-size: 10px;
 }
-
-
-
+.oioi{
+    width: 82px;
+    height: 21px;
+}
+.qw{
+    width: 82px;
+    height: 21px;
+}
+.qwe{
+    width: 19px;
+    height: 19px;
+}
+.poiu{
+    width: 19px;
+    height: 19px;
+}
+.eggman{
+    width: 27px;
+    height: 25px;
+}
+.nikita{
+    width: 27px;
+    height: 25px;
+}
+.gold{
+    width: 19px;
+    height: 19px;
+}
+.oip{
+    width: 19px;
+    height: 19px;
+}
+.jona{
+    width: 19px;
+    height: 19px;
+}
+.jonhatan {
+    width: 19px;
+    height: 19px;
+}
+.hjg{
+    display: flex;
+    width: 250px;
+    justify-content: space-around;
+}
 
 
 
@@ -268,7 +311,7 @@ font-size: 10px;
 
 .e{
     background-color: rgb(255, 255, 255) ;
-    margin-top: 100%;
+    margin-top: 5%;
     display: flex;
     height: 100px;
     align-items: center;
@@ -285,7 +328,8 @@ font-size: 10px;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin-right: 50px;
+    margin-right: 10px;
+    gap: 10px;
 }
 
 
