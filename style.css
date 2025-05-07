@@ -152,9 +152,6 @@ margin-left: 20pxpx;
     font-size: 50px;
     
 }
-.pdva{
-    
-}
 
 
 .nikita1000procentovmakaka{
@@ -189,9 +186,7 @@ margin-left: 20pxpx;
     align-items: center;
 
 }
-.chutnegl{
-    
-}
+
 .jqtyrf{
     display: flex;
     justify-content: flex-start;
@@ -311,11 +306,12 @@ align-items: center;
       url("MazzardM-Light.otf") }
 
 .fon{
-<<<<<<< Updated upstream
+
     background-color:#F2F2F2;
-=======
+
     background-color: #F2F2F2;
->>>>>>> Stashed changes
+
+    background-color: #F2F2F2;
     width: 240px;
     height: 375px;
     padding-top: 10px;
@@ -451,7 +447,6 @@ margin-left: 50px;
                         display: flex;
                         justify-content: space-around;
                         gap: 370px;}
-<<<<<<< Updated upstream
 
 
                         .image2{
@@ -464,7 +459,6 @@ margin-left: 50px;
                         
                         .image3{
                             height: 200px;
-                            margin-right: ;
                             margin-top: 20px;
                             
                         }
@@ -484,7 +478,7 @@ margin-left: 50px;
 
 
 
-=======
+
             
 
 .image1ps5{
@@ -501,4 +495,3 @@ margin-left: 50px;
 .nidforl{
     margin-left: 40px;
 }
->>>>>>> Stashed changes
