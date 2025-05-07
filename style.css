@@ -150,6 +150,7 @@ margin-left: 20pxpx;
 }
 .p{
     font-size: 50px;
+    
 }
 .pdva{
     
@@ -185,6 +186,7 @@ margin-left: 20pxpx;
     height: 386px;
     display: flex;
     justify-content: center;
+    align-items: center;
 
 }
 .chutnegl{
@@ -192,16 +194,19 @@ margin-left: 20pxpx;
 }
 .jqtyrf{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
    align-items: center;
+   gap: 2.4px;
+   
 }
 .Xbox{
     width: 484px;
     height: 261px;
+    margin-left:-300px ;
 }
 .paakaa{
-    width: 9.2px;
-    height: 8.75px;
+    width: 10px;
+    height: 9px;
 }
 .papapapa{
     background-color: #6e25ee;
@@ -211,7 +216,9 @@ margin-left: 20pxpx;
 }
 .popka{
     font-size: 30px;
-    align-items: center;
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
     
 }
 .mcdakk{
@@ -222,10 +229,19 @@ margin-left: 20pxpx;
     font-size: 35px;
 }
 .jwtnoxka{
-
+justify-content: center;
 font-size: 10px;
+align-items: center;
 }
-
+.obshhhh{
+    display: flex;
+    gap: 22px;
+    width: 1550px;
+    height: 494px;
+    align-items: center;
+    justify-content: center;
+    padding: 76px;
+}
 
 
 
