@@ -221,7 +221,7 @@ body{
       url("MazzardM-Light.otf") }
 
 .fon{
-    background-color: rgb(213, 211, 211);
+    background-color:#F2F2F2;
     width: 240px;
     height: 375px;
     padding-top: 10px;
@@ -230,7 +230,7 @@ body{
 }
 
 .da{
-    background-color: rgb(213, 211, 211);
+    background-color: #F2F2F2;
     width: 150px;
     height: 190px;
 }
@@ -352,7 +352,28 @@ margin-left: 50px;
                         display: flex;
                         justify-content: space-around;
                         gap: 370px;}
-            
+
+                        .image2{
+                            height: 100px;
+                            margin-right: 200px;
+                            margin-top: 60px;
+                            margin-left: 5px;
+                        
+                        }
+                        
+                        .image3{
+                            height: 200px;
+                            margin-right: px;
+                            margin-top: 20px;
+                            
+                        }
+                        .image4{
+                            height: 200px;
+                            margin-left:  25px;
+                            margin-top: 20px;
+                            
+                        }
+
 
 
                 
