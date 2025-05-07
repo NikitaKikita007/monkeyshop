@@ -432,3 +432,21 @@ margin-left: 50px;
                         justify-content: space-around;
                         gap: 370px;}
             
+.andrey{
+    display: flex;
+}
+.ppop{
+}
+.ppopdva{
+    font-size: 40px;
+
+}
+.ppoptri{
+    font-size: 40px;
+ 
+}
+.hhhj{
+    width: 132px; 
+    height: 33px;
+    background-color:rgb(99, 37, 213);
+}
