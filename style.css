@@ -311,7 +311,11 @@ align-items: center;
       url("MazzardM-Light.otf") }
 
 .fon{
+<<<<<<< Updated upstream
     background-color:#F2F2F2;
+=======
+    background-color: #F2F2F2;
+>>>>>>> Stashed changes
     width: 240px;
     height: 375px;
     padding-top: 10px;
@@ -447,6 +451,7 @@ margin-left: 50px;
                         display: flex;
                         justify-content: space-around;
                         gap: 370px;}
+<<<<<<< Updated upstream
 
 
                         .image2{
@@ -479,3 +484,21 @@ margin-left: 50px;
 
 
 
+=======
+            
+
+.image1ps5{
+   width: 166px;
+   height: 206px;
+}
+
+.image1414{
+    width: 220px;
+    margin-right: 200px;
+    margin-bottom: 300px;
+}
+
+.nidforl{
+    margin-left: 40px;
+}
+>>>>>>> Stashed changes
