@@ -1,3 +1,16 @@
+@font-face {
+    font-family: "mazzard";
+    src:
+        url("MazzardM-Light.otf")
+}
+
+* {
+    font-family: "mazzard";
+
+}
+body{
+    margin: 0;
+}
 
 .galava {
     width: 1289px;
@@ -34,16 +47,15 @@
     width: 362px;
     height: 40px;
     font-size: 34px;
-    margin: auto 117px;
-    
+
 }
 
 .AAA {
     width: 48px;
     height: 14px;
-    color: #717171; 
+    color: #717171;
     font-size: 12px;
-    
+
 }
 
 .b {
@@ -53,33 +65,37 @@
     font-size: 35px;
 }
 
-.c{
+.c {
     color: #717171;
     font-size: 10px;
 }
-.d{
-text-decoration: line-through;
-width: 71px;
-height: 24px; 
-font-size: 20px;  
+
+.d {
+    text-decoration: line-through;
+    width: 71px;
+    height: 24px;
+    font-size: 20px;
 }
-.kl{
+
+.kl {
     background-color: #6e25ee;
     color: #ffffff;
     width: 156px;
     height: 39px;
     border-radius: 10px;
-    }
-    .kn{
-        display: flex;
-        align-items: center;
-    }
-.oa{
+}
+
+.kn {
+    display: flex;
+    align-items: center;
+}
+
+.oa {
     display: flex;
     font-size: 30px;
 }
 
-.yaaQQ{
+.yaaQQ {
     font-size: 24px;
     height: 71px;
     width: 319px;
@@ -87,76 +103,87 @@ font-size: 20px;
     margin: auto;
 
 }
-.ooo{
-    
+
+.ooo {
+
     height: 113px;
     color: #6e25ee;
     font-size: 96px;
     margin: 0;
 }
-.io{
+
+.io {
     width: 12px;
     height: 21px;
-    color:#00000051;
+    color: #00000051;
     margin: left;
 }
-.oi{
+
+.oi {
     width: 18px;
     height: 21px;
-    color:#00000051;
-    margin:right;
+    color: #00000051;
+    margin: right;
 }
-.hm{
+
+.hm {
     display: flex;
     justify-content: space-evenly;
     gap: 120px;
 }
-.qwerty{
+
+.qwerty {
     display: flex;
     justify-content: space-around;
+    width: 1440px;
+    margin: auto;
 }
-.quasdf{
+
+.quasdf {
     width: 10px;
     height: 10px;
 
 }
-.oboi{
-background-color: blue;
-width: 329px;
-height: 50px;
-display: flex;
-justify-content: center;
-align-items: center;
-gap: 5px;
+
+.oboi {
+    background-color: rgb(255, 255, 255);
+    width: 329px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    gap: 5px;
 
 }
 
-.KRUT{
+.KRUT {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.andrey{
-   width: 764px;
-   height: 386px;
-   background-color: #F2F2F2;
-margin: auto;
-margin-left: 20pxpx;
+
+.andrey {
+    width: 764px;
+    height: 386px;
+    background-color: #F2F2F2;
+    margin: auto;
+    flex-shrink: 0;
+
 }
-.kartinka{
+
+.kartinka {
     width: 236px;
     height: 352px;
-  
+
 }
-.p{
+
+.p {
     font-size: 50px;
-}
-.pdva{
-    
+
 }
 
-
-.nikita1000procentovmakaka{
+.nikita1000procentovmakaka {
     width: 329px;
     height: 50px;
     background-color: rgb(255, 255, 255);
@@ -165,138 +192,181 @@ margin-left: 20pxpx;
     align-items: center;
 }
 
-.prise{
+.prise {
     font-size: 50%;
 }
 
-.image113{
+.image113 {
     width: 240px;
     margin-top: 50px;
 }
 
-
-
-
-
-
-.Canya{
+.Canya {
     background-color: #F2F2F2;
     width: 764px;
     height: 386px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.jqtyrf {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2.4px;
 
 }
-.chutnegl{
-    
-}
-.jqtyrf{
-    display: flex;
-    justify-content: center;
-   align-items: center;
-}
-.Xbox{
+
+.Xbox {
     width: 484px;
     height: 261px;
+    margin-left: -300px;
 }
-.paakaa{
-    width: 9.2px;
-    height: 8.75px;
+
+.paakaa {
+    width: 10px;
+    height: 9px;
 }
-.papapapa{
+
+.papapapa {
     background-color: #6e25ee;
     width: 132px;
     height: 33px;
 
 }
-.popka{
+
+.popka {
     font-size: 30px;
-    align-items: center;
-    
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
+
 }
-.mcdakk{
+
+.mcdakk {
     color: #717171;
     font-size: 12px;
 }
-.xboxxxx{
+
+.xboxxxx {
     font-size: 35px;
 }
-.jwtnoxka{
 
-font-size: 10px;
+.jwtnoxka {
+    justify-content: center;
+    font-size: 10px;
+    align-items: center;
 }
 
+.obshhhh {
+    display: flex;
+    gap: 22px;
+    width: 1300px;
+    height: 494px;
+    align-items: center;
+    scrollbar-color: rgb(112, 32, 141) rgb(255, 255, 255);
+    margin: auto;
+    overflow-x: scroll;
+    flex-shrink: 0;
+}
 
+.oioi {
+    width: 82px;
+    height: 21px;
+}
 
+.qw {
+    width: 82px;
+    height: 21px;
+}
 
+.qwe {
+    width: 19px;
+    height: 19px;
+}
 
+.poiu {
+    width: 19px;
+    height: 19px;
+}
 
+.eggman {
+    width: 27px;
+    height: 25px;
+}
 
+.nikita {
+    width: 27px;
+    height: 25px;
+}
 
+.gold {
+    width: 19px;
+    height: 19px;
+}
 
+.oip {
+    width: 19px;
+    height: 19px;
+}
 
+.jona {
+    width: 19px;
+    height: 19px;
+}
 
+.jonhatan {
+    width: 19px;
+    height: 19px;
+}
 
+.hjg {
+    display: flex;
+    width: 250px;
+    justify-content: space-around;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.e{
-    background-color: rgb(255, 255, 255) ;
-    margin-top: 100%;
+.e {
+    background-color: rgb(255, 255, 255);
+    margin-top: 5%;
     display: flex;
     height: 100px;
     align-items: center;
     justify-content: space-between;
 }
-.y{
+
+.y {
     background-color: rgb(255, 255, 255);
     width: 181px;
-    height: 27px; 
+    height: 27px;
     display: flex;
-    margin-left: 99px;  
+    margin-left: 99px;
 }
-.u{
+
+.u {
     display: flex;
     align-items: center;
     justify-content: space-around;
+<<<<<<< HEAD
     margin-right: 50px;
+=======
+    margin-right: 10px;
+>>>>>>> 71184c254f40868a5d4096524f70c9803d9c6581
     gap: 10px;
 }
 
 
-@font-face {
-    font-family: "mazzard";
-    src: 
-      url("MazzardM-Light.otf") }
 
-.fon{
-    background-color: rgb(213, 211, 211);
+
+.fon {
+
+    background-color: #F2F2F2;
+
+    background-color: #F2F2F2;
+
+    background-color: #F2F2F2;
     width: 240px;
     height: 375px;
     padding-top: 10px;
@@ -304,32 +374,33 @@ font-size: 10px;
 
 }
 
-.da{
-    background-color: rgb(213, 211, 211);
+.da {
+    background-color: #F2F2F2;
     width: 150px;
     height: 190px;
 }
 
-.image1{
+.image1 {
     width: 240px;
     margin-right: 200px;
 }
 
-.text{
+.text {
     font-size: 50%;
     margin-left: 5px;
     font-family: "mazzard";
     padding-top: 20%;
 }
 
-.text1{
-    color:rgb(118, 118, 118);
+.text1 {
+    color: rgb(118, 118, 118);
     font-size: x-small;
 }
 
-.prise{
+.prise {
     font-size: large;
 }
+
 .tlv {
     width: 1289px;
     height: 539px;
@@ -354,82 +425,133 @@ font-size: 10px;
     margin-top: 34px;
     font-size: 24px;
 }
-.dho{
-width: 99px;
-height: 21px;
-margin-top: 490px;
-font-size: 19px;
-margin-left: 50px;
+
+.dho {
+    width: 99px;
+    height: 21px;
+    margin-top: 490px;
+    font-size: 19px;
+    margin-left: 50px;
 
 }
 
-.fireimage{
+.fireimage {
     width: 40px;
     height: 40px;
 }
 
 
 
-.verh{
+.verh {
     font-family: "mazzard";
     font-size: 40px;
 }
-.pravo{
+
+.pravo {
     font-size: 20px;
     margin-top: 17px;
     font-family: "mazzard";
 }
-.hs{
+
+.hs {
     display: flex;
     justify-content: space-around;
     gap: 350px;
 }
-.korbka1{
+
+.korbka1 {
     background-color: #F2F2F2;
     width: 240px;
     height: 386px;
-    margin-left: 70px;
     border-radius: 5px;
-    
+
 }
-.glavniy{
+
+.glavniy {
     display: flex;
     justify-content: center;
     gap: 25px;
     margin-top: 35px;
 }
-.korbka2{
+
+.korbka2 {
     background-color: #F2F2F2;
     width: 240px;
     height: 386px;
 
-    border-radius: 5px;}
-    .korbka3{
-        background-color: #F2F2F2;
-        width: 240px;
-        height: 386px;
-     
-        border-radius: 5px;}
+    border-radius: 5px;
+}
 
-        .korbka4{
-            background-color: #F2F2F2;
-            width: 240px;
-            height: 386px;
-         
-            border-radius: 5px;}
-            .korbka5{
-                background-color: #F2F2F2;
-                width: 240px;
-                height: 386px;
-            
-                border-radius: 5px;}
-                .hs2{
-                    display: flex;
-                    justify-content: space-around;
-                    gap: 550px;}
+.korbka3 {
+    background-color: #F2F2F2;
+    width: 240px;
+    height: 386px;
 
-                    .hs3{
-                        display: flex;
-                        justify-content: space-around;
-                        gap: 370px;}
-            
+    border-radius: 5px;
+}
+
+.korbka4 {
+    background-color: #F2F2F2;
+    width: 240px;
+    height: 386px;
+
+    border-radius: 5px;
+}
+
+.korbka5 {
+    background-color: #F2F2F2;
+    width: 240px;
+    height: 386px;
+
+    border-radius: 5px;
+}
+
+.hs2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 550px;
+}
+
+.hs3 {
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    margin: auto;
+}
+
+
+.image2 {
+    height: 100px;
+    margin-right: 200px;
+    margin-top: 60px;
+    margin-left: 5px;
+
+}
+
+.image3 {
+    height: 200px;
+    margin-top: 20px;
+
+}
+
+.image4 {
+    height: 200px;
+    margin-left: 25px;
+    margin-top: 20px;
+
+}
+
+.image1ps5 {
+    width: 166px;
+    height: 206px;
+}
+
+.image1414 {
+    width: 220px;
+    margin-right: 200px;
+    margin-bottom: 300px;
+}
+
+.nidforl {
+    margin-left: 40px;
+}
